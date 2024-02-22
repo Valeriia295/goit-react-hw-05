@@ -1,0 +1,32 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style-type: none;
+  margin-left: 100px;
+}
+
+.image {
+  height: 350px;
+  width: 233px;
+}
+
+.defaultImage {
+  width: 233px;
+  height: 350px;
+}
+
+.name {
+  text-align: center;
+  max-width: 233px;
+}
+
+.character {
+  max-width: 233px;
+  text-align: center;
+}
+
+.info {
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.author {
+  color: rgb(55, 67, 117);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.text {
+  text-align: center;
+  font-size: 20px;
+}

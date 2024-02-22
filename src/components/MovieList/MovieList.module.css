@@ -1,0 +1,18 @@
+.item {
+  margin-left: 30px;
+  font-size: 17px;
+}
+
+.link {
+  margin-top: 17px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.link:hover {
+  color: rgb(155, 170, 190);
+}

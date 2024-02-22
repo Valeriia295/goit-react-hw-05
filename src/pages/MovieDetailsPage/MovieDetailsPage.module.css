@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.image {
+  margin-top: 20px;
+  height: 450px;
+  margin-left: 70px;
+}
+
+.info {
+  max-width: 950px;
+}
+
+.items {
+  display: flex;
+  gap: 50px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.link:hover {
+  color: rgb(155, 170, 190);
+}
